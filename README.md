@@ -9,3 +9,4 @@ Power BI project focused on sales performance analysis using a fictional Contoso
 - DAX
 - SQL Server
 - Git / GitHub
+- IA
