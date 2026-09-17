@@ -10,3 +10,4 @@ Power BI project focused on sales performance analysis using a fictional Contoso
 - SQL Server
 - Git / GitHub
 - IA
+- VSCode
